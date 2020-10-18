@@ -1,0 +1,1 @@
+# angular-8-e2e-jenkins-JUnitXmlReporter
