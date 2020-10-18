@@ -42,7 +42,7 @@ exports.config = {
 
     jasmine.getEnv().addReporter(
       new JUnitXmlReporter({
-        savePath: "./e2e/test-results/E2E",
+        savePath: "../ng8-e2e/e2e/test-results/E2E",
         consolidateAll: false,
       })
     );
